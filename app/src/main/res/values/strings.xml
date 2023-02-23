@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">month6_lesson1</string>
+    <string name="added_into_array">Image added into an array</string>
+    <string name="error_image">Error, text is not image format!</string>
+</resources>
